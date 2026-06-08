@@ -4,7 +4,7 @@ const student={name:"sonu",
 	}
 	function getkeys(obj){
 		//const keys=object.keys(student)
-		return object.keys(student);
+		return object.keys(obj);
 	}
 console.log(getkeys(student));
 
